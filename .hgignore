@@ -5,3 +5,4 @@ glob:*.ini
 glob:*.exe
 glob:*.ddp
 glob:*.~dpr
+glob:*.dcu

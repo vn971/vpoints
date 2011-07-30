@@ -710,7 +710,7 @@ type
 
 
 const
-  date_build=40421;
+  date_build=40754;
   dir_saved='saved\';
   dir_screenshots='screenshots\';
   dir_images='images\';
@@ -4325,18 +4325,10 @@ procedure TFileWork.open_vpoints_file(file_name:string);
  end;
 
 procedure TFileWork.open_vktochki_file(file_name:string);
-// var
-//  file_to_open:TStrings;
-//  file_astext:string;
  begin
-//  file_to_open:=TStringList.Create;
-//  file_to_open.LoadFromFile(file_name);
-//  file_astext:=file_to_open.Text;
-//  open_vkontakte100_string(file_astext);
   open_vkontakte100_string(
     msgs.loadFromFile(file_name)
   );
-//  file_to_open.Free;
  end;
 
 function TFileWork.open_vkontakte_IsCorrect(var file_as_string:string):boolean;
