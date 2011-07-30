@@ -4325,15 +4325,18 @@ procedure TFileWork.open_vpoints_file(file_name:string);
  end;
 
 procedure TFileWork.open_vktochki_file(file_name:string);
- var
-  file_to_open:TStrings;
-  file_astext:string;
+// var
+//  file_to_open:TStrings;
+//  file_astext:string;
  begin
-  file_to_open:=TStringList.Create;
-  file_to_open.LoadFromFile(file_name);
-  file_astext:=file_to_open.Text;
-  open_vkontakte100_string(file_astext);
-  file_to_open.Free;
+//  file_to_open:=TStringList.Create;
+//  file_to_open.LoadFromFile(file_name);
+//  file_astext:=file_to_open.Text;
+//  open_vkontakte100_string(file_astext);
+  open_vkontakte100_string(
+    msgs.loadFromFile(file_name)
+  );
+//  file_to_open.Free;
  end;
 
 function TFileWork.open_vkontakte_IsCorrect(var file_as_string:string):boolean;
@@ -4503,18 +4506,20 @@ procedure TFileWork.open_SomePointsFormat_file(file_name:string);
   TableNodes.freezed:=true;
   extension := ExtractFileExt(file_name);
   if (extension = '.sgftochki')or(extension='.sgf') then
-   begin
+  begin
     open_vpoints_file(file_name);
     DirControl.current_file:=file_name;
-   end
-  else if extension = '.sav' then
-   begin
-    open_pointsxt220_file(file_name);
-   end
-  else if extension = '.vktochki' then
-   begin
-     //
-   end
+  end else begin
+    if extension = '.sav' then
+    begin
+      open_pointsxt220_file(file_name);
+    end else begin
+      if extension = '.vktochki' then
+      begin
+        open_vktochki_file(file_name);
+      end
+    end
+  end;
 //  delete_autosave;
   FocusOn_TablPunktov;
   TableNodes.freezed:=false;

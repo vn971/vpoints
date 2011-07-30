@@ -1449,9 +1449,10 @@ object Form1: TForm1
   object OpenDialog: TOpenDialog
     DefaultExt = 'sgftochki'
     Filter = 
-      'Any points file (*.sgftochki, *.sav, *.sgf)|*.sgftochki; *.sav;*' +
-      '.sgf|Vpoints, polish file (*.sgftochki; *.sgf)|*.sgftochki; *.sg' +
-      'f|PointsXT file (*.sav)|*.sav'
+      'Any points file (*.sgftochki, *.sav, *.sgf, *.vktochki)|*.sgftoc' +
+      'hki; *.sav; *.sgf; *.vktochki|Vpoints, polish file (*.sgftochki;' +
+      ' *.sgf)|*.sgftochki; *.sgf|PointsXT file (*.sav)|*.sav|vkontakte' +
+      ' file (may NOT work)|*.vktochki'
     FilterIndex = 0
     Left = 32
     Top = 184
