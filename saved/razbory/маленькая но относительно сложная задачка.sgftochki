@@ -1,0 +1,7 @@
+(;GM[40] FF[0] CA[ANSI] RU[russian] AP[vpoints122] SZ[15:20] PB[vn91] PR[s.] 
+C[Задача. Придумайте способ окружить ] [синих с 30-ого хода.] 
+[Оценочная сложность: для рейта 1600 на ] [контакте или 1100 на pointsXT.] 
+;W[ii] ;B[ij] ;W[hj] ;B[hi] ;W[gj] ;B[hh] ;W[ih] ;B[ik] ;W[hg] ;B[fi] ;W[gi] ;
+B[gh] ;W[fh] ;B[gg] ;W[hf] ;B[ff] ;W[eg] ;B[ej] ;W[gl] ;B[ig] ;W[ji] ;B[jf] ;W[ie]
+;B[je] ;W[jd] ;B[ef] ;W[dg] ;B[dk] ;W[kj] ;B[jl] 
+C[Ход красных. Придумайте, как они могут ] [окружить.] )

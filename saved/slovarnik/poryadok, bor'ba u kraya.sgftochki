@@ -1,0 +1,6 @@
+(;GM[40] FF[0] CA[ANSI] RU[russian] AP[vpoints122] PW[Вася] 
+PB[Фрося] SZ[hh] 
+;B[fc] ;B[eb] ;B[db] ;B[cc] ;W[da] ;W[ea] ;W[fb] ;W[ee] ;W[ca] ;
+W[bb] ;W[ac] ;W[ad] ;W[bf] ;W[df] (;W[ec] ;B[ed] ;W[fd] ;B[dd] ;
+W[gc] )(;B[ef] (;W[ec] ;B[ed] ;W[fd] ;B[dd] ;W[gc] ;B[fe] ;W[gd] ;
+B[de] )(;W[fd] ;B[ed] ;W[gc] ;B[fe] ;W[ec] ;B[de] ;W[dc] )))

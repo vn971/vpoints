@@ -1,0 +1,44 @@
+(;GM[40] FF[0] CA[ANSI] RU[russian] PW[Scorpiona] PB[SkyLead] AN[] DT[2010.03.09]
+DTTM[13-26] SZ[39:32] RUAT[0] AP[pointsXT(FF121) exported by vpoints40236] 
+C[сразу уточню, у меня первыми ходят красные, вторыми - черные...] 
+;W[uo] ;B[vo] ;W[vp] ;B[up] ;W[vq] ;B[uq] ;W[un] ;B[wo] ;W[xq] ;B[vs] ;W[sn] ;
+B[xp] ;W[wr] ;B[yq] ;W[yr] ;B[zq] 
+C[ходы 1-16: ну что, вполне ровное начало. Правда черные сразу решили пойти в атаку]
+;W[zs] 
+C[можно было бы попробовать в 24-15... чем больше таких пересечений, тем больше шансов потом, имхо]
+;B[ws] C[черные провеяют бдительность] ;W[xr] ;B[vr] ;W[wq] ;B[As] ;W[zu] ;B[zt]
+;W[yt] ;B[At] (;W[yu] C[почему не 24-21? правда это дело вкуса...] ;B[Aw] 
+C[ходы 28-61: черные решили взяться за дело всеръез...] ;W[yw] ;B[rq] ;W[zx] ;
+B[Ax] ;W[zz] ;B[zy] ;W[yy] ;B[zw] ;W[yx] ;B[yv] ;W[xv] ;B[zv] ;W[wu] ;B[Ar] ;W[xu]
+;B[xw] ;W[ww] ;B[xx] ;W[wx] ;B[xy] ;W[Ay] ;B[wy] ;W[vy] ;B[vz] ;W[wz] ;B[xz] ;
+W[uz] ;B[vx] ;W[vA] ;B[vw] ;W[wv] ;B[yA] ;W[uu] ;B[tv] ;W[tu] ;B[sv] ;W[uw] 
+C[хороший ход, не дающий атаковать без оглядки...] ;B[ux] ;W[st] ;B[rt] ;W[uv] ;
+B[tx] ;W[rs] ;B[qt] ;W[qr] ;B[ss] C[ну у черных без шансов...] ;W[sr] ;B[ts] ;
+W[tr] ;B[rr] (;W[ur] C[серъезная ошибка красных...] 
+[можно было  спасти ВСЕ точки] [и черных при этом сожрать] [] [См. вариации.] ;
+B[qs] ;W[tp] ;B[wk] ;W[us] C[ну для такого хода еще] [не настало время...] 
+[такое делается в конце игры....] ;B[qj] C[ходы 84-94: красные растягивают ] 
+[линию атаки красных. ] [при этом создается множество лазеек ] 
+[для обоих сторон. ] [кароче - месилово :)] [потом черные находят-таки, ] 
+[лазейку] ;W[pn] ;B[mn] ;W[nn] ;B[no] ;W[ok] ;B[kh] ;W[lk] ;B[jk] ;W[oh] ;B[of] ;
+W[jl] ;B[kl] ;W[kk] ;B[ll] ;W[ki] ;B[mk] ;W[ni] ;B[mg] ;W[li] ;B[jj] ;W[ji] ;B[ii]
+;W[ih] ;B[hi] ;W[jh] ;B[oj] (;W[nj] C[думаю, надо было ходить в 13-10. ] 
+[тогда б черные наглухо перекрыли ] [б прорыв красных] 
+[потом черные совсем "обнаглели" ] [красным приходится оборонятся] ;B[nk] ;W[pj]
+;B[ol] ;W[pk] ;B[pl] ;W[qk] ;B[ql] ;W[tk] ;B[rk] ;W[uj] ;B[pi] ;W[uh] ;B[uf] ;
+W[xh] ;B[vh] ;W[wj] ;B[wi] ;W[vg] ;B[vi] ;W[wg] ;B[ui] ;W[vj] ;B[xi] ;W[xj] ;B[yi]
+;W[yj] ;B[zj] ;W[zk] ;B[zi] ;W[Ak] ;B[Ci] ;W[Ck] ;B[Dk] ;W[Dl] ;B[Ek] ;W[Em] ;
+B[Fm] ;W[En] ;B[Fn] ;W[Ep] ;B[El] ;W[Cm] ;B[Fq] ;W[Fp] ;B[Gp] ;W[Dr] ;B[Fo] ;W[Dq]
+;B[Es] ;W[Ds] ;B[Dt] ;W[Ct] ;B[Du] ;W[Cx] ;B[Cu] ;W[Au] ;B[Bv] ;W[Fr] ;B[Er] (;
+W[Eq] C[лучше б 32-16.... в будующем это могло хорошо б сыграть красным.] ;B[Gq]
+;W[Et] ;B[Fs] ;W[Ft] ;B[Gr] (;W[Fv] 
+C[если б вместо 31-21 красные пошли б в 30-22. потом я нашел вариант выживания для черных, но попробовать стоило ))]
+;B[Ew] ;W[Fw] ;B[Ev] ;W[Fu] ;B[Ey] ;W[Fz] ;B[Ez] ;W[FA] ;B[Fx] ;W[Gx] ;B[zA] ;
+W[AA] ;B[AB] ;W[BA] ;B[By] ;W[Az] ;B[BB] ;W[CA] ;B[DB] ;W[xA] ;B[yz] ;W[Fy] (;
+B[Ex] C[черным можно было не отвечать ] [на эту атаку.] [] [См. вариации.] ;W[op]
+;B[np] ;W[oq] ;B[nr] ;W[nq] ;B[mq] ;W[mr] ;B[or] ;W[mp] ;B[lq] ;W[mo] ;B[lp] ;
+W[oo] ;B[lo] ;W[ln] ;B[mm] ;W[kn] ;B[sw] ;W[jm] ;B[ti] ;W[sj] ;B[si] ;W[ri] ;B[rh]
+;W[qi] ;B[qh] ;W[rj] ;B[ph] ;W[sh] ;B[sg] ;W[lr] ;B[jq] ;W[kr] ;B[ip] ;W[pr] ;
+B[ps] ;W[EA] ;B[DA] ;W[os] ;B[ns] ;W[ot] ;B[nt] ;W[ou] ;B[ru] ;W[pq] ;B[Cj] ;W[nv]
+;B[CC] ;W[lu] ;B[Bh] ;W[mu] ;B[Ah] )(;B[CC] ;W[Ex] ;B[Dx] ;W[Dy] ;B[EA] ))(;W[Ew]
+))(;W[Gq] ))(;W[nk] ))(;W[qs] (;B[ur] ;W[vt] )(;B[us] ;W[ur] )))(;W[yv] ))

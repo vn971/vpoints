@@ -1,0 +1,8 @@
+(;GM[40] FF[4] CA[CP1251] RU[russian] AP[vpoints:40253] PW[] PB[] AN[] 
+DTDT[2010.04.24] DTTM[00-26] SZ[30:35] 
+C[Иллюстрация идеи результатов ходов (см. ход № 15)] 
+;B[mr] ;W[mq] ;B[nq] ;W[nr] ;B[mp] ;W[lq] ;B[lr] ;W[kq] ;B[jr] ;W[kp] ;B[ko] ;
+W[os] CR[kr] ;B[kr] SQ[ns] ;W[ns] CR[jp] ;B[jp] SQ[np] CR[jq] 
+C[Метками показаны варианты альтернативных ходов (в данный момент красных), ответных к последнему (9-15).]
+(;W[jq] SQ[iq] ;B[iq] CR[jo] ;W[jo] SQ[lo] ;B[lo] )(;W[np] CR[oq] ;B[oq] SQ[mo] ;
+W[mo] CR[lo] [lp] (;B[lo] SQ[lp] ;W[lp] )(;B[lp] SQ[lo] ;W[lo] )))

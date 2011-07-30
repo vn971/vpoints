@@ -1,0 +1,67 @@
+(;GM[40] FF[4] CA[CP1251] RU[russian] AP[vpoints:40305] PW[YAoneNA] PB[danuvas] 
+AN[vn91] DTDT[02.06.2010] DTTM[09-39] SZ[39:32] RUAT[0] 
+;B[ps] ;W[qs] ;B[qt] ;W[pt] ;W[pu] ;B[qu] ;W[rs] ;B[su] ;W[gv] 
+C[это миссклик?
+лучше бы все же чуть ближе. Разлаписто ходить правильно, но хотя бы на 3-4 клетки поначалу, не на 10.]
+;B[pr] ;W[rq] ;B[qq] (;W[rr] ;B[qp] ;W[vs] ;B[tv] ;W[um] C[хорошо] ;B[ro] ;W[tq]
+;B[tp] ;W[up] ;B[to] ;W[uo] ;B[sn] (;W[sq] ;B[wv] ;W[tn] ;B[qn] ;W[rh] ;B[rv] 
+C[очень медленно.. Длительная такая игра дает риск отстать в развитии.] (;W[ur] ;
+B[xu] ;W[ul] ;B[mt] C[хороший ход] ;W[ov] ;B[mw] ;W[px] ;B[ls] 
+C[ооочень осторожная игра.] ;W[mv] ;B[lv] (;W[nv] ;B[lu] (;W[ow] ;B[ns] ;W[lw] ;
+B[mx] ;W[kw] ;B[or] (;W[py] ;B[ly] ;W[qz] (;B[vw] ;W[jv] ;B[mk] ;W[jC] ;B[jy] ;
+W[iv] ;B[iz] ;W[fz] ;B[mB] ;W[pD] ;B[qB] ;W[oB] ;B[pA] ;W[nz] ;B[oz] ;W[ny] ;B[nA]
+;W[rB] (;B[mz] ;W[rA] ;B[oy] ;W[qC] ;B[mD] ;W[pB] ;B[nx] ;W[qA] ;B[nE] (;W[wD] 
+C[хорошо.
+Хотя, наверное, можно было бы даже и еще дальше - снизу синим теперь и так и так не пройти.]
+;B[yt] (;W[Aq] ;B[Bu] (;W[Is] ;B[Ct] (;W[Er] ;B[Cy] ;W[EC] ;B[Hx] 
+C[вообще синий должен уходить.] ;W[Fx] ;B[CB] ;W[CD] ;B[Fy] (;W[Ey] TR[Fy] [Hx] 
+[Cy] 
+C[вот этот ход - ошибка после которой я и решил написать разбор.
+Ходить сюда не надо - вместо этого надо полностью жертвовать точку которая здесь была. Ибо слишком большое здесь влияние синих.]
+;B[Fz] ;W[Dx] ;B[Ez] ;W[Gw] ;B[Dy] ;W[Ex] ;B[Cx] 
+C[и все, синие полностью остановили оппонента.] ;W[Ky] (;B[GC] ;W[FB] (;B[Iz] ;
+W[JB] (;B[HC] ;W[GA] ;B[IB] ;W[Hz] ;B[Hy] ;W[HA] ;B[Jy] ;W[Gy] ;B[Gx] ;W[Gz] ;
+B[Fw] ;W[Dz] ;B[BD] (;W[EA] 
+C[красные допускают ту же ошибку что до этого синие. Судорожно соединяются вместо того чтобы атаковать.]
+;B[BA] (;W[DD] ;B[AD] ;W[IA] ;B[JC] ;W[Jz] ;B[Hw] ;W[Gv] ;B[Iy] ;W[Kx] ;B[Iv] ;
+W[Kv] ;B[Ju] ;W[Ku] ;B[Jt] ;W[Ks] ;B[Gu] ;W[Fv] ;B[Fu] ;W[Ew] ;B[Hu] ;W[Eu] ;B[Js]
+;W[Jr] ;B[Kt] ;W[Lt] ;B[Kz] ;W[JA] ;B[Ls] ;W[Kr] ;B[Lu] ;W[Mt] ;B[Kw] ;W[Jw] 
+C[синим надо быть настороже.. Те ходы, которые дальше будут - их надо было ожидать.]
+;B[Lw] ;W[Hv] ;B[Iw] ;W[Ht] (;B[Cq] ;W[Ft] ;B[Bn] (;W[vk] ;B[yh] ;W[ud] ;B[ti] ;
+W[vh] ;B[vi] ;W[wi] ;B[vj] ;W[wj] ;B[wk] ;W[rk] ;B[tm] ;W[un] ;B[uk] (;W[tl] ;
+B[vl] ;W[sm] ;B[ri] ;W[qi] ;B[rj] ;W[pl] ;B[pk] ;W[pm] ;B[ok] ;W[zm] ;B[Al] ;W[yk]
+C[красным повезло, вообще, что они выжили.)] ;B[xn] ;W[zo] ;B[xp] ;W[xr] ;B[yq] ;
+W[yr] ;B[zr] ;W[zq] ;B[ys] ;W[yp] ;B[xq] ;W[xo] ;B[wo] ;W[yo] ;B[wr] ;W[wp] (;
+B[xs] ;W[wn] ;B[wm] ;W[vo] ;B[zl] ;W[Br] ;B[Cr] ;W[Co] ;B[Bo] ;W[Cp] ;B[Bp] ;W[Bq]
+;B[Bs] ;W[Bm] ;B[An] ;W[Am] ;B[Cn] ;W[zn] ;B[Cm] ;W[yl] ;B[Ck] ;W[xj] ;B[qj] ;
+W[wg] ;B[xe] ;W[ve] ;B[ym] ;W[xm] ;B[ub] ;W[vb] ;B[vf] ;W[wf] ;B[we] ;W[uf] ;B[vd]
+;W[ug] ;B[uc] ;W[qd] ;B[yf] ;W[re] ;B[yj] ;W[xk] ;B[xh] ;W[wh] ;B[qb] ;W[sb] ;
+B[td] (;W[rc] ;B[ue] ;W[sf] ;B[sa] (;W[nc] ;B[pc] (;W[oe] ;B[pd] ;W[pe] ;B[nd] (;
+W[lf] ;B[od] ;W[nf] ;B[kd] ;W[ke] ;B[jd] ;W[if] ;B[le] ;W[me] ;B[md] ;W[ld] ;B[lc]
+;W[he] ;B[hc] ;W[ef] ;B[id] (;W[jf] ;B[gf] ;W[gd] ;B[fc] ;W[fd] ;B[hd] ;W[ge] ;
+B[ed] ;W[ee] ;B[Bl] ;W[dd] ;B[gr] ;W[Gs] ;B[uw] ;W[Dq] ;B[Bw] ;W[BC] ;B[CC] ;W[AB]
+;B[Bz] ;W[zB] ;B[yC] ;W[yB] ;B[xB] ;W[zC] ;B[zD] ;W[xC] ;B[yD] ;W[xA] ;B[wB] ;
+W[wA] ;B[vB] ;W[vA] ;B[yA] ;W[uB] ;B[vC] ;W[vD] ;B[uC] ;W[tC] 
+C[красиво!)
+
+Вообще у меня в личной жизни в точках облом. Ибо давно уже мечтаю кого-нибудь поймать или на двойной лесенке, или на лесенке ведущей к другому окружению.. И все делают до меня.(
+Двойную лесенку недавно ysi на контакте проворачивал, второй трюк теперь Яна показала.. Эх:)]
+;B[fv] ;W[sC] ;B[gw] ;W[Fr] )(;W[gf] ))(;W[od] ;B[oc] ))(;W[od] ;B[pd] ;W[pe] ;
+B[oe] ))(;W[pb] ;B[pc] ;W[qc] ;B[rb] ;W[oc] ;B[pd] ;W[od] ;B[pe] ;W[of] ))(;W[ue]
+C[надо уже выигрывать.)] ;B[sc] ;W[vc] ;B[wd] ;W[rb] C[синим не вырваться...] ))(;
+B[wq] C[синие не выиграют если сходят так.] ;W[vp] ;B[ws] ;W[wn] ))(;W[vl] ;B[tk]
+;W[tl] ;B[sl] ;W[sk] ;B[ui] (;W[tg] ;B[sh] ;W[rg] ;B[uh] ;W[vg] ;B[ug] ;W[uf] ;
+B[sg] ;W[sf] ;B[tf] ;W[te] )(;W[wg] ;B[tg] ;W[xk] )))(;
+C[супер-вопрос. Угадайте сейчас правильный ход за красных.:)
+Ответ - в ответвлении ниже:)]
+)(;W[fw] 
+C[если слева сейчас красные убегают, то у них на 2 очка больше чем у синих и они выиграли.]
+))(;B[Iu] ;W[Ft] ))(;W[BE] ))(;W[BE] ))(;B[JA] ))(;B[HA] ;W[GA] ;B[Gz] ;W[Hz] ;
+B[Iz] ;W[Hy] ;B[Iy] ;W[Dz] ;B[DA] ))(;B[IA] ;W[KB] ;B[IC] ;W[JD] ;B[HD] ;W[HE] ;
+B[GE] ;W[GB] ))(;W[Jz] ))(;W[Fy] ;B[Fu] ;W[Fp] ;B[Gv] ;W[Iw] ))(;W[Fv] TR[Aq] 
+[Fv] C[ловим оппонента.)] ))(;W[Dt] C[в принципе нет особой разницы.] ))(;W[AA] )(;
+W[By] ))(;B[rA] C[скорее всего, так лучше.] ))(;B[mB] )(;B[sj] ))(;W[pz] ))(;W[oy]
+;B[pv] ;W[pw] ;B[qv] ;W[ou] ))(;W[mu] ;B[lu] ;W[nw] C[я ожидал этого] ))(;W[mv] ;
+B[uq] ;W[ur] ;B[vq] ;W[ws] ))(;W[ur] 
+C[такой ход лучше соединяет+защищает свои точки, но не дает сыграть на атаку через (17-15). Я бы сыграл именно так.]
+))(;W[tr] )(;W[ur] ))
