@@ -1,8 +1,0 @@
-glob:*.~dfm
-glob:*.~pas
-glob:*.~ddp
-glob:*.ini
-glob:*.exe
-glob:*.ddp
-glob:*.~dpr
-glob:*.dcu

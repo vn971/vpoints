@@ -1,0 +1,11 @@
+#### compilation output
+*.exe
+*.ddp
+*.dcu
+
+#### delphi 7 backup files
+/*.~*
+
+
+#### this file is re-created
+/vpoints.ini
